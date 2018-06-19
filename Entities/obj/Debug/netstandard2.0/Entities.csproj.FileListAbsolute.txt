@@ -1,0 +1,8 @@
+C:\Users\Power2Motivate\source\repos\P2M_Tools\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Power2Motivate\source\repos\P2M_Tools\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Power2Motivate\source\repos\P2M_Tools\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Power2Motivate\source\repos\P2M_Tools\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Power2Motivate\source\repos\P2M_Tools\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Power2Motivate\source\repos\P2M_Tools\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Power2Motivate\source\repos\P2M_Tools\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Power2Motivate\source\repos\P2M_Tools\Entities\obj\Debug\netstandard2.0\Entities.pdb
