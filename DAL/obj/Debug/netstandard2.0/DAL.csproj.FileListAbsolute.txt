@@ -1,0 +1,11 @@
+C:\Users\Power2Motivate\source\repos\P2M_Tools\DAL\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Power2Motivate\source\repos\P2M_Tools\DAL\obj\Debug\netstandard2.0\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Power2Motivate\source\repos\P2M_Tools\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Power2Motivate\source\repos\P2M_Tools\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Power2Motivate\source\repos\P2M_Tools\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\Power2Motivate\source\repos\P2M_Tools\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\Power2Motivate\source\repos\P2M_Tools\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\Power2Motivate\source\repos\P2M_Tools\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\Power2Motivate\source\repos\P2M_Tools\DAL\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Power2Motivate\source\repos\P2M_Tools\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\Power2Motivate\source\repos\P2M_Tools\DAL\obj\Debug\netstandard2.0\DAL.pdb
